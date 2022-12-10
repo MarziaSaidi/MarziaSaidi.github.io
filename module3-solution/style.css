@@ -6,7 +6,7 @@
 .navbar{
 
 border: none;
-background-color: gray;
+background-color: grey;
 color:black;
 }
 body{
@@ -23,7 +23,7 @@ body{
 }
 .container
 {
-	background-color: gray;
+	background-color: grey;
 }
 .text-center{
 	font-size: 30px;
